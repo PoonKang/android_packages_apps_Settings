@@ -211,7 +211,6 @@
         <item>spa</item>
     </string-array>
 
-
     <!-- Wi-Fi settings -->
 
     <!-- Match this with the order of NetworkInfo.DetailedState. --> <skip />
