@@ -4699,21 +4699,6 @@
     <string name="pie_size_large">Large</string>
     <string name="pie_size_gigantic">Gigantic</string>
     <string name="pie_gap_title">Pie gap</string>
-    <string name="pie_gap_summary">Adjust the gap in between pie elements</string>
-    <string name="pie_gap_closed">Closed</string>
-    <string name="pie_gap_small">Small (default)</string>
-    <string name="pie_gap_big">Big</string>
-    <string name="pie_gap_huge">Huge</string>
-    <string name="pie_trigger_title">Trigger size</string>
-    <string name="pie_trigger_summary">Determine the size of the triggering area that will start pie controls</string>
-    <string name="pie_trigger_small">@string/pie_gap_small</string>
-    <string name="pie_trigger_big">@string/pie_gap_big</string>
-    <string name="pie_trigger_huge">@string/pie_gap_huge</string>
-    <string name="pie_gap_summary">Control the gap in between Pie elements</string>
-    <string name="pie_gap_closed">Closed</string>
-    <string name="pie_gap_small">Small gap (Default)</string>
-    <string name="pie_gap_bigger">Bigger gap</string>
-    <string name="pie_gap_large">Large gap</string>
 
     <string name="pie_gap_summary">Adjust the gap that separates Pie elements</string>
     <string name="pie_gap_none">None</string>
@@ -4725,13 +4710,10 @@
     <string name="pie_menu_summary">Whether or not the menu button will appear when unneeded</string>
 
     <string name="pie_search_title">Show search button</string>
-    <string name="pie_search_summary">Access to Google Now via Pie</string>
+    <string name="pie_search_summary">Access to GoogleNow via Pie</string>
 
     <string name="pie_trigger_title">Pie trigger area</string>
     <string name="pie_trigger_summary">Determine the size of the region that registers swipes</string>
-    <string name="pie_trigger_small">Small trigger (Default)</string>
-    <string name="pie_trigger_bigger">Bigger trigger</string>
-    <string name="pie_trigger_large">Large trigger</string>
     <string name="pie_trigger_small">Small (Default)</string>
     <string name="pie_trigger_big">Big</string>
     <string name="pie_trigger_huge">Huge</string>
