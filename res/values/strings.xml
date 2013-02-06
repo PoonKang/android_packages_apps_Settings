@@ -4408,6 +4408,9 @@
     <!-- CYANOGENMOD STUFF -->
     <!-- ======================================================================================= -->
 
+    <!-- Advanced, Device specific (DeviceParts) settings  -->
+    <string name="advanced_settings_title">Advanced</string>
+
     <!-- Performance settings  -->
     <string name="performance_settings_title">Performance</string>
 
@@ -4732,7 +4735,7 @@
     <string name="navigation_bar_reset_toast">Navigation bar reset to default</string>
     <string name="navigation_bar_menu_editable">Editable</string>
     <string name="navigation_bar_menu_locked">Locked</string>
-    
+
     <!-- Hybrid sub menu [CHAR LIMIT=30] -->
     <string name="hybrid_settings">Hybrid properties</string>
 
