@@ -1436,6 +1436,8 @@
 
         <!-- CyanogenMod activities Start -->
         <activity android:name=".cyanogenmod.PerformanceSettings" />
+
+        <activity android:name=".cyanogenmod.ChangeLog" />
         <!-- CyanogenMod activities End -->
 
         <!-- ParanoidAndroid customization -->
