@@ -41,6 +41,7 @@ public class Toolbar extends SettingsPreferenceFragment
     private static final String KEY_AM_PM_STYLE = "am_pm_style";
     private static final String KEY_SHOW_CLOCK = "show_clock";
     private static final String KEY_STATUS_BAR_NOTIF_COUNT = "status_bar_notif_count";
+    private static final String KEY_HARDWARE_KEYS = "hardware_keys";
     private static final String STATUS_BAR_MAX_NOTIF = "status_bar_max_notifications";
     private static final String NAV_BAR_TABUI_MENU = "nav_bar_tabui_menu";
     private static final String STATUS_BAR_DONOTDISTURB = "status_bar_donotdisturb";
