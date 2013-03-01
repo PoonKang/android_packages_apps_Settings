@@ -4690,6 +4690,9 @@
 
     <string name="pref_screentimeout_mode_title">Screen timeout modes</string>
 
+    <!-- Advanced, Device specific (DeviceParts) settings  -->
+    <string name="advanced_settings_title">Advanced</string>
+
     <!-- Sound mode -->
     <string name="pref_ring_mode_title">Sound modes</string>
     <string name="pref_ring_mode_summary">View or change the Sound button modes</string>
@@ -4730,6 +4733,7 @@
     
     <string name="pie_size_title">Pie size</string>
     <string name="pie_size_summary">Define pie controls size</string>
+    <string name="pie_size_none">None</string>
     <string name="pie_size_small">Small</string>
     <string name="pie_size_default">@string/pie_mode_default</string>
     <string name="pie_size_large">Large</string>
@@ -4756,6 +4760,7 @@
 
     <string name="pie_trigger_title">Trigger area</string>
     <string name="pie_trigger_summary">Determine the size of the region that registers swipes</string>
+    <string name="pie_trigger_none">None</string>
     <string name="pie_trigger_small">@string/pie_size_small</string>
     <string name="pie_trigger_normal">@string/pie_mode_default</string>
     <string name="pie_trigger_big">@string/pie_gap_big</string>
