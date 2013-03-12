@@ -4688,7 +4688,7 @@
     <string name="title_tile_screen_timeout">Screen timeout</string>
     <string name="title_tile_usb_tether">USB Tether</string>
     <string name="title_tile_quiet_hours">Quiet hours</string>
-    <string name="title_tile_desktop_mode">Desktop mode</string>
+    <string name="title_tile_desktop_mode">Pie</string>
 
     <string name="title_dynamic_tiles">Dynamic tiles</string>
     <string name="dynamic_tiles_note_title">Note</string>
@@ -4696,7 +4696,7 @@
     <string name="title_dynamic_alarm">Alarm clock</string>
     <string name="title_dynamic_bugreport">Bug report</string>
     <string name="title_dynamic_ime">IME changer</string>
-    <string name="title_dynamic_usbtether">USB Tether</string>
+    <string name="title_dynamic_usbtether">@string/title_tile_usb_tether</string>
     <string name="title_dynamic_wifi">Wi-Fi display</string>
 
     <string name="title_general">General</string>
@@ -4728,7 +4728,7 @@
     <string name="pie_controls_title">Pie controls</string>
     
     <string name="pie_gravity_title">Pie gravity</string>
-    <string name="pie_gravity_summary">Select the location where Pie will be placed at</string>
+    <string name="pie_gravity_summary">Select the location where pie will be placed at</string>
     <string name="pie_gravity_top">Top</string>
     <string name="pie_gravity_bottom">Bottom</string>
     <string name="pie_gravity_right">Right</string>
@@ -4757,10 +4757,10 @@
     <string name="pie_gap_huge">Huge (default)</string>
 
     <string name="pie_center_title">Middle alignment</string>
-    <string name="pie_center_summary">Center Pie on the trigger edge</string>
+    <string name="pie_center_summary">Center pie on the trigger edge</string>
 
     <string name="pie_stick_title">Prevent rotation</string>
-    <string name="pie_stick_summary">If checked Pie will stay in place no matter which orientation</string>
+    <string name="pie_stick_summary">Avoids orientation change when screen rotates</string>
 
     <string name="pie_menu_title">Persistent menu button</string>
     <string name="pie_menu_summary">Always show menu button even when it\'s not necessary</string>
@@ -4776,8 +4776,8 @@
     <string name="pie_trigger_big">@string/pie_gap_big</string>
     <string name="pie_trigger_huge">Huge</string>
 
-    <string name="pie_restart_launcher_title">Restart Launcher</string>
-    <string name="pie_restart_launcher_summary">Changing screensize can have adverse effects. This option allows your launcher to regain sanity, the cost is a slight blackout (recommended)</string>
+    <string name="pie_restart_launcher_title">Redraw launcher</string>
+    <string name="pie_restart_launcher_summary">Programmatically changing screen size can have adverse visual effects. This option allows your launcher to regain sanity at the cost of a slight blackout (recommended)</string>
 
     <!-- Navigation Bar #CM -->
     <string name="navigation_reset_title">@string/lock_screen_shortcuts_reset</string>
